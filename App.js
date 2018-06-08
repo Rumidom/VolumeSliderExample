@@ -13,10 +13,6 @@ export default class App extends Component {
   this.setState({value:Valor});
   } 
 
-  _handleTextChange = inputValue => {
-    this.setState({ inputValue });
-  };
-
 
   render() {
     return (
