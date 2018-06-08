@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Slider, View, StyleSheet, Text, TextInput,TouchableHighlight } from 'react-native';
-//import { Constants, Location, Permissions } from 'expo';
-//import SystemSetting from 'react-native-system-setting';
+import SystemSetting from 'react-native-system-setting';
 
 export default class App extends Component {
   
@@ -10,14 +9,9 @@ export default class App extends Component {
   };
 
   ChangeVolume(Valor){
-  //SystemSetting.setVolume(Valor);
+  SystemSetting.setVolume(Valor);
   this.setState({value:Valor});
   } 
-
-  onPress(){
-    console.log("botão!")
-  }
-  
 
   _handleTextChange = inputValue => {
     this.setState({ inputValue });
