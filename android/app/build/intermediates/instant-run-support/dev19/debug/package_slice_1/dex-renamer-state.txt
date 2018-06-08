@@ -1,0 +1,4 @@
+#Thu Jun 07 16:26:16 BRT 2018
+base.0=C\:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\5\\slice_1\\classes.dex

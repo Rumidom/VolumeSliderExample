@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\incremental\\mergeDev19DebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\Rober\\.android\\build-cache\\6de1b907b96c26baa36f5a178411a21a1fbd0c1e\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

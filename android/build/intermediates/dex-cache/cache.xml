@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\35d60ec7ec2132e7d508b7462261dcf3534b9693\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_8009adf73fb6f818f2d00c37feeae7462decd2ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\2eeb1b9532f5ed9d748a45aaef821b6531232f2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d8ffe33fc5c2feb623b2e216dfc180e7540cd5">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_bd53fd36e583c23cffdd0d087884fabb1f7c2c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\00d0e972ef3b0650b9f880ef78567df31bc972af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00bffcece869fcc14f8c3fe523a11c6c53356b44">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_783c7a5ddad88a2b5855199cb93d8c2bc4bea6aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\35d60ec7ec2132e7d508b7462261dcf3534b9693\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_3f7f17423ebd5f84707419bc0e94cfddb274a909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\incremental-runtime-classes\dev19\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10000\instant-run_583660eb08e834b347a6addc69915257833a7497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\df375be9cf96c00cae2984739cf8a90476094785\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="64cd9f68288a814c311fe2723b68bd91aa241c7b">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_d169dcefbb2b2103b1c27e07f15e2582197a494d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\maven\expolib_v1\com\squareup\okhttp3\okhttp\3.6.0\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="565de69ddf97fffe074cba6cb0512520cdce4394">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\okhttp-3.6.0_20b455380bc8994073e9866716de08fca55d989e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\maven\expolib_v1\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89890cffce351fec7caf3fdfd4351c7f4b4769b4">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\okio-1.13.0_f2874bda489181ac12570ff9adc441d208f57787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\6c861e88bb506c1477f7460a0c4ca56542fb721e\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_ab566f52d1baf5ee68df8fd3aac6b06ad974138b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\83f20e6f0214befee66b39100da19962d8c44721\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7721fdd1d59c4b8ae136c087b7590ec69061d97f">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_b59ae9199a95791fe5ae7427ea2c8ea3c74711fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\incremental-classes\dev19\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5d82d9da015a6e241ade4d6e1973a30ba6d97a17">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10000\instant-run-bootstrap_66275a72beca2f0378bd44915e7b337ce06f554c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\8682fbee92fbb8a3a53f6b0075c967e3e6cd09e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cac4539de2fbfcb1c4c44c55166f0332b92d34b7">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_bbee612cb0ed3a523a5d1844c0a6e918d51260bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\6c861e88bb506c1477f7460a0c4ca56542fb721e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_2ebaac7b90b00fb03f1a4acdb9b1b8fa50c25b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\00d0e972ef3b0650b9f880ef78567df31bc972af\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_2a489ecd4dd060920956f8a92c6f4045588b7aa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\88af3d2c1e7c2af4b5747748d06d0f5e1ce4ce47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_fc3552ceb2f34697554c5279f3e4d50e6f9bff47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\df6617851d8a307458c32e04c677cf6efef7d844\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43579bbbc605c8815aa55ad85d856fb5588250d2">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_77841625184a0dfca34ae59be78828c8b36dcc7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\1b942bd52c4059a6a04b5cd07a1502f999445154\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_b2e1452b46d0da748aabd048bfc1a5a6ee9abea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\ea05ddcbb4123c42c6b28993e719137f6db4dc37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_8df2618e5fa80568fc8efee1f75caa47d64c9c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\83f20e6f0214befee66b39100da19962d8c44721\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67b6fa134bb2e2163e293f7ae9b898b985979515">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_55b21ec98b3661580a727dbb67692e0ae78dbc87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\2eeb1b9532f5ed9d748a45aaef821b6531232f2d\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_28b8faeeb318ba9bce1a495a1b04b3df8c1cba27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\fc2bf1086a38835e2bb37e10aeb4891d960b6977\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_d9569f3eb833885fdaf041fadf5d44569a89385e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\df6617851d8a307458c32e04c677cf6efef7d844\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a315c4dce1b163f2ddf71bab62f3b56eb05c6a15">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_1849bc355596ac18d9d8f4da3633676560fb0a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\8682fbee92fbb8a3a53f6b0075c967e3e6cd09e1\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_3eb847b71984144ba1208f584752f0f908d66126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\1b942bd52c4059a6a04b5cd07a1502f999445154\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_48514c1a879afe872472c62d95727d84d559385e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\.android\build-cache\0818519d7c518401bf5e667053953556b7a08240\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae335c9696bc1513f7e3bb96a731b722712d7a63">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_778424b7bec581887e90cfb3a43b997909e127ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\maven\expolib_v1\com\squareup\okhttp3\okhttp-urlconnection\3.6.0\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae77d4921dcf287b3776baabfbca09b55616ab13">
+        <dex dex="C:\Users\Rober\OneDrive\Documentos\teste slider\ExpoVolumeSlider\ExpoVolumeSlider\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\okhttp-urlconnection-3.6.0_3e401ab5befc87174555c6c4d7fcda109b8acba8\classes.dex" />
+    </item>
+
+</items>

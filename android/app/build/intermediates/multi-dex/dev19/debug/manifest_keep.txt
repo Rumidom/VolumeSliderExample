@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:108
+-keep class host.exp.exponent.MainApplication { <init>(...); }
+

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\Rober\\.android\\build-cache\\63e23f5fc6fa0c0c4b6f3f149521843fdc8bf322\\output\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\Rober\\.android\\build-cache\\63e23f5fc6fa0c0c4b6f3f149521843fdc8bf322\\output\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\Rober\\.android\\build-cache\\63e23f5fc6fa0c0c4b6f3f149521843fdc8bf322\\output\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\Rober\\.android\\build-cache\\63e23f5fc6fa0c0c4b6f3f149521843fdc8bf322\\output\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Rober\\.android\\build-cache\\63e23f5fc6fa0c0c4b6f3f149521843fdc8bf322\\output\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Rober\\OneDrive\\Documentos\\teste slider\\ExpoVolumeSlider\\ExpoVolumeSlider\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\Rober\\.android\\build-cache\\63e23f5fc6fa0c0c4b6f3f149521843fdc8bf322\\output\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    }
+]
